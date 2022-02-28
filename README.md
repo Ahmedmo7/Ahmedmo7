@@ -1,10 +1,11 @@
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedmo7)
+
 <!--
 ### Hi there I'm Ahmed👋
 
 - 🌱 I’m currently learning TravisCI, automated testing, CI/CD
 
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedmo7)
 
 
 **Ahmedmo7/Ahmedmo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
