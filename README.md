@@ -1,4 +1,4 @@
-### Hi there I'm Ahmed, and I am CS Major @ Western University, Looking for New Grad 2023 Software Engineer Internships👋
+### Hi there I'm Ahmed, and I am CS Major @ Western University, and an aspiring Software Engineer 👋
 
 
 
