@@ -1,4 +1,4 @@
-### Hi there I'm Ahmed, and I am CS Major @ Western University, and an aspiring Software Engineer 👋
+### Hi there I'm Ahmed, and I am CS Major @ Western University, and a Software Engineer 👋
 
 
 
