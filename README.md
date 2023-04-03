@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an Anime Tracking List
+- 🔭 I’m currently working on freelance web applications
 - 🌱 I’m currently learning Ruby and Java Backend Development
 
 
